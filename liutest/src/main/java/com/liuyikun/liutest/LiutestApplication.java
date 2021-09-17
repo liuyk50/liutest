@@ -8,6 +8,7 @@ public class LiutestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LiutestApplication.class, args);
+        System.out.println("sssssssssssss");
     }
 
 }
