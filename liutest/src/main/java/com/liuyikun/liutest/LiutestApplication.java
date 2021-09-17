@@ -10,6 +10,7 @@ public class LiutestApplication {
         SpringApplication.run(LiutestApplication.class, args);
         System.out.println("sssssssssssss");
         System.out.println("sssssssssssss");
+        System.out.println("conflicts");
     }
 
 }
